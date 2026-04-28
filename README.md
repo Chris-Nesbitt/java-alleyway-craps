@@ -16,6 +16,4 @@ through GUI components and event-driven programming.
 - Game state tracking and user feedback
 - Event-driven input handling
 
-## Purpose
-This project was developed as part of coursework in the Computer Programming
-and Analysis program at Fanshawe College.
+Created as a programming assignment in the Computer Programming and Analysis program at Fanshawe College.
